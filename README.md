@@ -1,4 +1,4 @@
-# Text2Forget-GU: From Random Forget-Sets to Natural-Language Requests for Graph Unlearning
+# Text2Forget: From Random Forget-Sets to Natural-Language Requests for Graph Unlearning
 
 This repository contains the code and synthetic corpus used in our paper:
 
